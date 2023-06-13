@@ -44,7 +44,3 @@ Before running Melody 1.1, ensure that you have the following prerequisites inst
 ## Contributing
 
 If you have suggestions or want to contribute to Melody 1.1, feel free to fork the repository and submit a pull request.
-
-## License
-
-Melody 1.1 is released under the [MIT License](LICENSE).
